@@ -1,0 +1,6 @@
+step,rows,explanation
+Rows loaded before cleaning,113599,All records read from the country CSV files that loaded.
+Rows removed for missing key metrics/ID,0,"Missing video_id, views, likes or comments."
+Rows removed for negative count values,0,"Negative views, likes, dislikes or comments are invalid."
+Duplicate records removed,0,Duplicate country + video_id + trending_date.
+Rows retained after cleaning,113599,Records available for descriptive analysis.

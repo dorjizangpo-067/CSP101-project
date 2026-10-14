@@ -1,0 +1,23 @@
+CSP101 YouTube Trending Videos Analysis - Generated Summary
+==============================================================
+Cleaned records analysed: 113,599
+Unique country-video pairs (latest snapshot): 113,599
+Countries represented: 7
+Date range: 2026-02-26 00:00:00 to 2026-02-26 00:00:00
+
+RQ1: Which categories have the highest median views?
+Pets & Animals (median views = 1,244,661; videos = 230).
+
+RQ2: How are views associated with likes and comments?
+Spearman, views-likes: 0.8908
+Spearman, views-comments: 0.7991
+Pearson, log views-log likes: 0.8552
+Pearson, log views-log comments: 0.8020
+Correlation does not establish causation.
+
+RQ3: How do views and engagement differ across countries?
+Highest median views: Russia (353,332).
+Highest mean engagement rate: United States (12.02%).
+
+RQ4: Which channels appear most often?
+BANGTANTV (3,500 trending records).
